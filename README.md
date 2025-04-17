@@ -51,7 +51,7 @@ CSV HEADER;
 
 
 ## License
-This project is created for educational purposes as part of the CSC12107 – Information System for Business Intelligence course at University of Science - VNUHCM.
+This project is created for educational purposes as part of the CSC10108 - Data Visualization course at University of Science - VNUHCM.
 
 
 
